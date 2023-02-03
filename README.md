@@ -23,3 +23,10 @@ Chec out the video on YouTube:
   Artist: yaeow
   Credits: https://youtu.be/ZiFY_Co8qS8
 
+## COPYRIGHT INFO
+        AUTHOR: RAJJIT LAISHRAM
+        PURPOSE: A MUSIC PLAYER WEB DESIGN FOR PLAYING MUSIC
+        DATE CREATED: JANUARY 26, 2023
+        
+        DATE MODIFIED: FEBRUARY 3, 2023
+        CHANGES: ADDED COPYRIGHT INFO
