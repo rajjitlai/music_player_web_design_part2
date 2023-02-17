@@ -9,7 +9,7 @@ A music player web design with Waves
   
   I am adding the wave design using wavesurfer JS.
   
-Chec out the video on YouTube:
+Check out the video on YouTube:
   https://youtube.com/shorts/A6rZsBpNawI
 
 
